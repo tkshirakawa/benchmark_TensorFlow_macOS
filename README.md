@@ -12,8 +12,8 @@ Installation Instructions of TensorFlow for GPU training in macOS Monterey:
 - utils : contains helper codes for Train.py - CSV loader, Keras callbacks, and loss and metrics.
 - run_BENCHMARK_5times_5min_interval.sh / .bat : Automation scripts to perform the training task five times with five minutes interval.
 
-<img width="500" alt="Screen Shot 2021-10-30 at 17 19 49" src="https://user-images.githubusercontent.com/52600509/139525861-4cbb1c9e-9f5f-4b98-ac6c-74da0689813f.png">
+<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139525861-4cbb1c9e-9f5f-4b98-ac6c-74da0689813f.png">
 
 ## Result
-![Table2+](https://user-images.githubusercontent.com/52600509/139528179-a0600ac0-044c-471a-bd3c-1acedd9dc77f.png)
+<img width="500" alt="Table2+" src="https://user-images.githubusercontent.com/52600509/139528179-a0600ac0-044c-471a-bd3c-1acedd9dc77f.png">
 
