@@ -17,7 +17,7 @@ Related article of mine in Medium.com:
 - run_BENCHMARK_5times_5min_interval.sh / .bat : Automation scripts to perform the training task five times with five minutes interval.
 - package_list : contains package lists of miniconda (miniforge) in which TensorFlow runs on GPU.
 
-<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
+<img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
 
 ## Result
 I performed this benchmark code on my MacBook Air M1 and a WIndows workstation.  
