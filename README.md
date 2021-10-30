@@ -6,7 +6,7 @@ Installation Instructions of TensorFlow for GPU training in macOS Monterey:
 [Getting Started with tensorflow-metal PluggableDevice (Apple Developer)](https://developer.apple.com/metal/tensorflow-plugin/)  
 
 Related article in Medium.com:  
-[Training Speed of TensorFlow in macOS Monterey - GPU training in M1 SoC comparing with results in Quadro RTX6000 and estimation in M1 Max SoC -](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
+[Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
 
 
 ## Description
@@ -20,6 +20,7 @@ Related article in Medium.com:
 <img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139525861-4cbb1c9e-9f5f-4b98-ac6c-74da0689813f.png">
 
 ## Result
-I performed this benchmark code on my MacBook Air M1 and a WIndows workstation.
+I performed this benchmark code on my MacBook Air M1 and a WIndows workstation.  
+Please check my Medium article for more details. [Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
 <img width="640" alt="Table2+" src="https://user-images.githubusercontent.com/52600509/139528179-a0600ac0-044c-471a-bd3c-1acedd9dc77f.png">
 
