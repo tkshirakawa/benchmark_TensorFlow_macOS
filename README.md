@@ -5,7 +5,7 @@ A set of Python codes and data to benchmark TensorFlow for macOS on a training t
 Installation Instructions of TensorFlow for GPU training in macOS Monterey:  
 [Getting Started with tensorflow-metal PluggableDevice (Apple Developer)](https://developer.apple.com/metal/tensorflow-plugin/)  
 
-Related article in Medium.com:  
+Related article of mine in Medium.com:  
 [Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
 
 
