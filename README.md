@@ -1,5 +1,5 @@
 # benchmark_TensorFlow_macOS
-A set of Python codes and data to benchmark TensorFlow with a training task of a large CNN model for image segmentation.  
+A set of Python codes and data to benchmark TensorFlow for macOS on a training task of a large CNN model for image segmentation.  
 *I made this set for benchmarking TensorFlow on GPU of M1 SoC in macOS Monterey.*  
 
 Installation Instructions of TensorFlow for GPU training in macOS Monterey:  
