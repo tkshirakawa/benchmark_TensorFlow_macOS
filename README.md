@@ -20,7 +20,7 @@ Related article of mine in Medium.com:
 <img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
 
 ## Result
-I performed this benchmark code on my MacBook Air M1 and a WIndows workstation.  
+I performed this benchmark code on my MacBook Air M1 and a WIndows workstation. The red circle in the above figure represents comutation time required for training data in an epoch. The yellow circle represents time required for validation.  
 Please check my Medium article for more details. [Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
 
 
