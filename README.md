@@ -17,11 +17,12 @@ Related article of mine in Medium.com:
 - run_BENCHMARK_5times_5min_interval.sh / .bat : Automation scripts to perform the training task five times with five minutes interval.
 - package_list : contains package lists of miniconda (miniforge) in which TensorFlow runs on GPU.
 
-<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139525861-4cbb1c9e-9f5f-4b98-ac6c-74da0689813f.png">
+<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
 
 ## Result
 I performed this benchmark code on my MacBook Air M1 and a WIndows workstation.  
 Please check my Medium article for more details. [Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
+
 
 <img width="640" alt="Table2+" src="https://user-images.githubusercontent.com/52600509/139528179-a0600ac0-044c-471a-bd3c-1acedd9dc77f.png">
 
