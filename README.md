@@ -20,7 +20,7 @@ Related article of mine in Medium.com:
 ## Installation Tips
 The following packages are required for this benchmark code.  
 **numpy h5py hdf5 joblib opencv graphviz**  
-The other packages will be installed based on their dependencies.  
+(The other packages will be installed based on their dependencies.)  
 
 In my experience, they should be installed to the miniforge3 **BEFORE** installing tensorflow-deps, -macos and -metal.  
 As for versions, please refer to my package list "miniforge3_TF26_macOS_Monterey.txt".  
