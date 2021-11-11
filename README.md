@@ -18,14 +18,14 @@ Related article of mine in Medium.com:
 - package_list : contains package lists of miniconda (miniforge) in which TensorFlow runs on GPU.
 
 ## Installation Tips
-In my experience, it seems that numpy and other packages such as opencv etc should be installed to the miniforge3 BEFORE installing ‘tensorflow-deps’, ‘tensorflow-macos’ and ‘tensorflow-metal’.  
-The following packages are required for this benchmark code. The other packages will be installed based on their dependencies.  
-numpy h5py hdf5 joblib opencv graphviz  
+It seems that other packages such as numpy, opencv etc should be installed to the miniforge3 BEFORE installing tensorflow-deps, -macos and -metal. The following packages are required for this benchmark code.  
+**numpy h5py hdf5 joblib opencv graphviz**  
+(The other packages will be installed based on their dependencies.)  
 
 As for versions, please refer to my package list "miniforge3_TF26_macOS_Monterey.txt".  
-You may be able to install the packages directly into your env by  
-‘conda install --name [env_name] --file miniforge3_TF26_macOS_Monterey.txt‘. 
-But it may be dependent on machine-specific things, which may be UNSAFE.  
+> You may be able to install the packages directly into your env by  
+> `conda install --name [env_name] --file miniforge3_TF26_macOS_Monterey.txt`  
+> But it may be dependent on machine-specific things, which may be UNSAFE.
 
 <img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
 
