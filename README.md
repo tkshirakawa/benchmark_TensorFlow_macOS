@@ -28,9 +28,10 @@ As for versions, please refer to my package list "miniforge3_TF26_macOS_Monterey
 > `conda install --name [env_name] --file miniforge3_TF26_macOS_Monterey.txt`  
 > But it may be dependent on machine-specific things, which may be UNSAFE.
 
+## Result
+
 <img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/52600509/139534799-57a193c4-3114-435e-a816-056a9aedebf2.png">
 
-## Result
 I performed this benchmark code on my MacBook Air M1 and a WIndows workstation. The red circle in the above figure represents comutation time required for all the training images in an epoch. The yellow circle represents time required for validation.  
 > Please check my Medium article for more details: [Training Speed of TensorFlow in macOS Monterey](https://towardsdatascience.com/training-speed-of-tensorflow-in-macos-monterey-3b8020569be1)  
 
